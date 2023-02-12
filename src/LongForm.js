@@ -185,8 +185,7 @@ const LongForm = () => {
                 <div className='flex justify-between items-center w-full'>
                     <div className='flex  w-full max-w-xs'>
                         <input
-                            className="border-2"
-                            className='mr-3'
+                            className='mr-3 border-2'
                             type='checkbox'
                             name='term'
                             id='terms'
